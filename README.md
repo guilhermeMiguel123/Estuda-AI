@@ -55,8 +55,8 @@
 ### 5. Stack Tecnológica Proposta
 **(Quais ferramentas vamos usar?)**
 
-* **Front-End:** React ou Vue.js
+* **Front-End:** React 
 * **Back-End:** Node.js com Express.js
-* **Banco de Dados:** MongoDB ou PostgreSQL
+* **Banco de Dados:** PostgreSQL
 
 ---
