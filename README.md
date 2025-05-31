@@ -1,4 +1,4 @@
-# Documento de Visão e Escopo do Projeto: [Nome do Projeto]
+# Documento de Visão e Escopo do Projeto: Estuda Ai
 
 **Versão:** 1.0
 **Data:** 31 de maio de 2025
